@@ -1,0 +1,17 @@
+1
+2
+3
+(Thread2) Me convierto en compra, prioridad anterior 20
+(Thread2) Me convierto en compra, prioridad actual: 1
+2
+1
+3
+(Thread3) Me convierto en compra, prioridad anterior 20
+(Thread3) Me convierto en compra, prioridad actual: 1
+2
+3
+1
+Soy compra
+Soy compra
+1
+
